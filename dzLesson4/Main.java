@@ -2,7 +2,7 @@ package dzLesson4;
 
 // второе задание в процессе
 
-public class MainOne {
+public class Main {
     static volatile char c = 'A';
     static Object mon = new Object();
 
